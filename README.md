@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslan3571&show_icons=true&locale=en&layout=compact" alt="ruslan3571" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)] -->
