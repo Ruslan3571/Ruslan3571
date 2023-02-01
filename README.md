@@ -1,7 +1,6 @@
 ### Hi there, I'm Ruslan 👋
 
 - 🏡 I'm ukrainian **full-stack developer**
-- 🌱 I'm currently learning **React**
 - 💫 I’m currently learning **everything I can get my hands on**
 - ⚡ Fun fact: **I love what I do - code**
 
