@@ -36,8 +36,6 @@
 ### 📊 My stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan3571&layout=compact&theme=tokyonight&hide_border=true"/>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruslan3571&theme=tokyonight&hide_border=true"/>
 </div>
 
